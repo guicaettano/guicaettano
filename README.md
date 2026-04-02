@@ -1,7 +1,7 @@
 <p align="center">
   🚀 Building AI Products | 💡 Automating Everything | 📊 Data-driven mindset
 </p>
-<h1 align="center">Hello World, I'm Guilherme! 👋</h1>
+<h1 align="center">Guilherme Caetano</h1>
 
 <p align="center">
   💻 Computer Science Student | 🤖 AI & Automation | 📊 Data

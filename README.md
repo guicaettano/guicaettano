@@ -1,3 +1,6 @@
+<p align="center">
+  🚀 Building AI Products | 💡 Automating Everything | 📊 Data-driven mindset
+</p>
 <h1 align="center">Hello World, I'm Guilherme! 👋</h1>
 
 <p align="center">

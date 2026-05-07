@@ -39,6 +39,10 @@ Atualmente, estou aprofundando meus estudos em **LLMs, RAG, integração de APIs
 
 ## 🚀 Projetos em destaque
 
+###    Cuab Prediction Market
+🔗  https://cuab.vercel.app
+Plataforma de mercado preditivo com algoritmo LMSR e automação com Inteligência Artificial.
+
 ### 💰 Pixme — Gestão Financeira com IA  
 🔗 https://usepixme.com.br  
 Sistema SaaS com categorização automática de transações e dashboard financeiro em tempo real.
@@ -68,8 +72,7 @@ Sistema de respostas contextuais com IA, utilizando recuperação semântica e L
 ## 📫 Contato
 
 - 📧 Email: guicaetanofalcon@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/guilherme-caetano-18b6472a7  
-- 🐙 GitHub: https://github.com/guicaettano  
+- 💼 LinkedIn: https://linkedin.com/in/guilherme-caetano-18b6472a7   
 
 ---
 

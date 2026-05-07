@@ -40,7 +40,7 @@ Atualmente, estou aprofundando meus estudos em **LLMs, RAG, integração de APIs
 ## 🚀 Projetos em destaque
 
 ###    Cuab Prediction Market
-🔗  https://cuab.vercel.app
+🔗 https://cuab.vercel.app
 Plataforma de mercado preditivo com algoritmo LMSR e automação com Inteligência Artificial.
 
 ### 💰 Pixme — Gestão Financeira com IA  

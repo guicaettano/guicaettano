@@ -67,22 +67,9 @@ Context-aware AI response system using semantic retrieval and LLMs.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guicaettano&show_icons=true&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicaettano&layout=compact&theme=radical"/>
-</p>
-
----
-
 ## 📫 Contact
 
 - 📧 Email: guicaetanofalcon@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/guilherme-caetano-18b6472a7
 
 ---
-
-## ⚡ About Me in One Sentence
-
-> I build AI and automation solutions that turn data into decisions.
